@@ -1,0 +1,1 @@
+In this notebook I tried to fill the null values and create box plots and time series
